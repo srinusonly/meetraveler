@@ -10,8 +10,25 @@ body{
 
 .mail-form{
 	text-align: right;
-    padding-right: 125px;
-    margin-top: 425px;
+    /*padding-right: 125px;*/
+    /*margin-top: 425px;*/
+}
+
+.font-class{
+    color: white;
+}
+
+.form-control{
+    width: 70%;
+}
+
+.well-width{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    background-color: transparent;
+    border: none !important;
 }
 
 .mail-submit{
